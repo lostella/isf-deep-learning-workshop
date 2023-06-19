@@ -1,1 +1,2 @@
-# isf-deep-learning-workshop
+# ISF Deep Learning Workshop 2023
+
