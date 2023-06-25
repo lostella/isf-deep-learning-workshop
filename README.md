@@ -6,4 +6,4 @@ Links to notebooks:
 3. Multivariate M5 ([colab](https://colab.research.google.com/drive/10s7dAaS_1-CLCdeP8uXIZ66rT0l0kBIu?usp=sharing)) ([notebook](./notebooks/m5_multivariate.ipynb))
 
 Links to slides:
-1. [Intro](./fcst-neural.pdf)
+1. [Intro](./slides/fcst-neural.pdf)
