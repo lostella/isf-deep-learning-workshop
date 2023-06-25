@@ -7,3 +7,4 @@ Links to notebooks:
 
 Links to slides:
 1. [Intro](./slides/fcst-neural.pdf)
+2. [Transformers](./slides/transformers-2023.pdf)
